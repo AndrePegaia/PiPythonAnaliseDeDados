@@ -5,3 +5,5 @@ It involved a series of tasks described (in portuguese) in the comments of the p
 
 Results of the analysis:
 ![image](https://user-images.githubusercontent.com/14794335/216831291-a41741bd-89d1-4cf7-b783-221b4fc2c3e8.png)
+
+This challenge was completed on 24 apr 2022 
